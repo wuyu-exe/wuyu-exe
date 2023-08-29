@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wuyu-exe
+- i swim competitively and play piano
+- i like traveling and experiencing different cultures
+- i like coding; i know python and c++
+- email: nathanwu2007@gmail.com
